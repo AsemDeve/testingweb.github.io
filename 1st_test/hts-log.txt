@@ -1,0 +1,13 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 13 Jul 2023 10:35:34 at https://preview.themeforest.net/item/pages-admin-dashboard-template-web-app/full_screen_preview/9694847?_ga=2.64742319.1825455568.1689224905-1133464838.1688888913 +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://preview.themeforest.net/item/pages-admin-dashboard-template-web-app/full_screen_preview/9694847?_ga=2.64742319.1825455568.1689224905-1133464838.1688888913 -O1 "E:\test\test" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:35:45	Warning: 	Link https://preview.themeforest.net/item/pages-admin-dashboard-template-web-app/full_screen_preview/9694847?_ga=2.64742319.1825455568.1689224905-1133464838.1688888913 not scanned (follow robots meta tag)
+10:35:45	Error: 	"Gone" (410) at link https://preview.themeforest.net/item/pages-admin-dashboard-template-web-app/full_screen_preview/&quot;https://cdn.revox.io/pages-marketing/banners/1_banner-react.png&quot..." (from https://preview.themeforest.net/item/pages-admin-dashboard-template-web-app/full_screen_preview/9694847?_ga=2.64742319.1825455568.1689224905-1133464838.1688888913)
+
+HTTrack Website Copier/3.49-2 mirror complete in 10 seconds : 5 links scanned, 3 files written (91616 bytes overall) [77741 bytes received at 7774 bytes/sec], 25529 bytes transferred using HTTP compression in 2 files, ratio 29%, 1.2 requests per connection
+(1 errors, 1 warnings, 0 messages)
